@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./ucashier-management/public/logo.svg" width="88" alt="UCashier logo">
-</p>
-
 <h1 align="center">UCashier</h1>
 
 <p align="center"><strong>Add stablecoin collection and payout to the business you already run.</strong></p>

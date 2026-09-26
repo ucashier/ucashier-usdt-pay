@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./ucashier-management/public/logo.svg" width="88" alt="UCashier 標誌">
-</p>
-
 <h1 align="center">UCashier</h1>
 
 <p align="center"><strong>穩定幣收付，接到您已經在跑的業務上。</strong></p>
