@@ -12,6 +12,7 @@
   <a href="https://www.ucashier.ink/">Website</a> ·
   <a href="https://www.ucashier.ink/docs/index.html">Docs</a> ·
   <a href="https://dashboard.ucashier.ink/#/user/login">Open an account</a> ·
+  <a href="https://beta.ucashier.ink/#/user/register">Test dashboard</a> ·
   <a href="https://t.me/UC_INK">Telegram</a>
 </p>
 
@@ -108,6 +109,7 @@ Register a test account, complete a first collection, and check the callback aga
 | | |
 | --- | --- |
 | Open an account | https://dashboard.ucashier.ink/#/user/login |
+| Test dashboard | https://beta.ucashier.ink/#/user/register |
 | Docs | https://www.ucashier.ink/docs/index.html |
 | Website | https://www.ucashier.ink/ |
 | Telegram | https://t.me/UC_INK |

@@ -12,6 +12,7 @@
   <a href="https://www.ucashier.ink/">官网</a> ·
   <a href="https://www.ucashier.ink/docs/index.html">接入文档</a> ·
   <a href="https://dashboard.ucashier.ink/#/user/login">免费开通</a> ·
+  <a href="https://beta.ucashier.ink/#/user/register">测试后台</a> ·
   <a href="https://t.me/UC_INK">Telegram</a>
 </p>
 
@@ -108,6 +109,7 @@ UCashier 适合已经拥有产品和订单系统，希望拓展稳定币收付�
 | 入口 | 地址 |
 | --- | --- |
 | 免费开通 | https://dashboard.ucashier.ink/#/user/login |
+| 测试后台 | https://beta.ucashier.ink/#/user/register |
 | 开发文档 | https://www.ucashier.ink/docs/index.html |
 | 官方网站 | https://www.ucashier.ink/ |
 | Telegram | https://t.me/UC_INK |
