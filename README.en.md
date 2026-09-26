@@ -68,10 +68,6 @@ Collections arrive at the address you bind. Collection fees and payouts use the 
 
 ## Why teams choose UCashier
 
-### Add it to the business you have
-
-Keep the accounts, orders, and fulfillment flow that already work. Create an order, send the buyer to the UCashier cashier, and continue the existing flow once a trustworthy payment result arrives.
-
 ### Funds go to an address you control
 
 The buyer's on-chain payment arrives at the receiving address you configured. It does not first settle into a platform pool. UCashier tracks the business order, while the on-chain asset stays with you.
